@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\Crossy Road.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level1.resources
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level2.resources
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level3.resources
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level4.resources
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level5.resources
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\Crossy Road.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\Crossy Road.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Dell\Desktop\Crossy Road\Crossy Road\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,81 @@
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\arsal\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level1.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level2.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level3.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level4.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level1.resources
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level2.resources
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level3.resources
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level4.resources
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\glab\Desktop\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level1.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level2.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level3.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level4.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\PAF-KIET\PF (Programming Fundamental)\Project\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level5.resources
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level1.resources
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level2.resources
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level3.resources
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level4.resources
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level5.resources
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\PAF-KIET\PF (Programming Fundamental)\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level1.resources
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level2.resources
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level3.resources
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level4.resources
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Level5.resources
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\bbackup\ROAD-CROSSING-GAME\ROAD CROSSING GAME\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
